@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="yhsql:jar">
+    <output-path>$PROJECT_DIR$/../yhsql/out/artifacts/yhsql_jar</output-path>
+    <root id="root">
+      <element id="archive" name="yhsql.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../yhsql/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="yhsql" />
+      </element>
+      <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.38" />
+    </root>
+  </artifact>
+</component>
